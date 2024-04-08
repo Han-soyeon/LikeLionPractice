@@ -1,0 +1,19 @@
+table {
+    padding: 5px 5px;
+  }
+  td {
+    border: 1px solid #000000;
+    text-align: center;
+  }
+  .td1 {
+    padding: 5px 5px;
+  }
+  .td2 {
+    padding: 1px 30px;
+  }
+  .td3 {
+    padding: 7px 10px;
+  }
+  .td4 {
+    padding: 1px 35px;
+  }
